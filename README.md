@@ -37,31 +37,24 @@ The IOTA Smart Contracts is in the Alpha phase. We are currently focused on impr
 - Code samples development
 - Improvements to module/libraries
 
-### Quality Assurance/Review
+### Defining the FAQ
 
-Quality Assurance/Review goal includes making sure that the releases are easily usable, has no obvious bugs or pitfalls that might turn developers off from trying further once they run into them, make sure that the examples we provide are clear and work for the most common use cases the release is aimed at.
+We are collecting Frequently Asked Questions, and want to provide answers to them. This is why we need you to help us by asking questions!
 
- > - [ ] Insert goal name and link to issue. e.g. [IOTA Streams Feedback (A)](https://github.com/iota-community/IOTAStreams/issues/1)
+ - [x] [ISCP FAQ Discussion](https://github.com/iota-community/X-Team_IOTA_SmartContracts/discussions/3)
+
 
 ### Documentation
 
 Documentation goal includes everything related to writing, curating, and sharing content around with solid documentation at every launch, that is kept up-to-date, well-written explanations of tangible use cases to stimulate developer interest
 
-> - [ ] **Insert goal name and link to issue. e.g.** [“Channels Application step-by-step” joint blog post series (B)](https://github.com/iota-community/IOTAStreams/issues/2)
-> - [ ]
+> - [X] [Instruction, tutorials, recipes, templates](https://github.com/iota-community/X-Team_IOTA_SmartContracts/issues/4)
+
 ### Code samples development
 
 Code samples development goal includes Code examples and well-presented PoCs to kick start devs Create a list of RFP’s for the EDF to fund Open-Source development
 
-> - [ ] **Insert goal name and link to issue. e.g.** [IOTA Streams Integrations (B)](https://github.com/iota-community/IOTAStreams/issues/3)
-> - [ ]
-
-###  Improvements to module/libraries
-
-Improvements to module/libraries goal includes Developer-friendly APIs at launch Solid comms both at release and after release (e.g. spotlight for community projects using each of libs)
-
-> - [ ] **Insert goal name and link to issue. e.g.** [IOTA Streams Integrations (B)](https://github.com/iota-community/IOTAStreams/issues/3)
-> - [ ]
+> - [X] IOTA Streams PoCs (A)](https://github.com/iota-community/X-Team_IOTA_SmartContracts/issues/5)
 
 ## 🤔 How Can You Get Involved?
 
