@@ -41,7 +41,7 @@ The IOTA Smart Contracts is in the Alpha phase. We are currently focused on impr
 
 We are collecting Frequently Asked Questions, and want to provide answers to them. This is why we need you to help us by asking questions!
 
- - [x] [ISCP FAQ Discussion](https://github.com/iota-community/X-Team_IOTA_SmartContracts/discussions/3)
+> - [x] [ISCP FAQ Discussion](https://github.com/iota-community/X-Team_IOTA_SmartContracts/discussions/3)
 
 
 ### Documentation
