@@ -54,7 +54,7 @@ Documentation goal includes everything related to writing, curating, and sharing
 
 Code samples development goal includes Code examples and well-presented PoCs to kick start devs Create a list of RFP’s for the EDF to fund Open-Source development
 
-> - [X] IOTA Streams PoCs (A)](https://github.com/iota-community/X-Team_IOTA_SmartContracts/issues/5)
+> - [X] [IOTA Streams PoCs (A)](https://github.com/iota-community/X-Team_IOTA_SmartContracts/issues/5)
 
 ## 🤔 How Can You Get Involved?
 
