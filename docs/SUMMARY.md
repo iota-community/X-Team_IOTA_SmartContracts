@@ -1,5 +1,6 @@
 # Summary
 
-- [Welcome](./README.md)
-- [Meetings](./meetings/README.md)
-- [Members](./members/README.md)
+- [👋 Welcome](./README.md)
+- [😎 Awesome List](./awesome.md)
+- [🤝 Meetings](./meetings/README.md)
+- [👷 Members](./members/README.md)
