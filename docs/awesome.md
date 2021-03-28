@@ -15,6 +15,7 @@
 
 
 ### Tools
+* [Smart Contract Template](https://github.com/brunoamancio/IOTA-SmartContracts)
 * [IOTA-SC-Utils](https://github.com/brunoamancio/IOTA-SC-Utils)
 * [scarab](https://github.com/l1h3r/scarab)
 
